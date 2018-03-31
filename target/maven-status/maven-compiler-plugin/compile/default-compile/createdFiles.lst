@@ -1,0 +1,11 @@
+com\example\demo\controller\TabPaneManger.class
+com\example\demo\JavaFxApplication.class
+com\example\demo\service\MissionsService.class
+com\example\demo\view\FxmlView.class
+com\example\demo\controller\ConsoleTabController.class
+com\example\demo\view\FxmlView$1.class
+com\example\demo\logging\ExceptionWriter.class
+com\example\demo\controller\FxmlController.class
+com\example\demo\controller\LoggerTabController.class
+com\example\demo\view\StageManager.class
+com\example\demo\config\SpringFXMLLoader.class
